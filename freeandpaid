@@ -52,7 +52,7 @@ OffenseTab:CreateSlider({
     Range = {0.0, 2.0},
     Increment = 0.01,
     Suffix = "",
-    CurrentValue = 0.50,
+    CurrentValue = 0.85,
     Flag = "TimingDelay",
 })
 
